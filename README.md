@@ -1,1 +1,1 @@
-# mvp_v0.5_webserver
+# elecon_shipping (=MVP v0.5)
