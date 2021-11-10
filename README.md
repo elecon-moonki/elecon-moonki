@@ -9,11 +9,16 @@ After that, All you need to do is to send a message with link to both partner an
 Good Luck!
 ```
 
+### Requirement
+```
+Python 3.8
+```
+
 ### Run
 ```
-If you are newbie of python, follow commands as follow.
+If you are the first of python, follow commands as follow.
 1. pip install requirements.txt
-2. python apis.py runserver
+2. python api.py runserver
 
-OK, localhost:8080 is running.
+OK, localhost:8000 is running.
 ```
